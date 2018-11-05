@@ -1,13 +1,13 @@
-*Youtube API made with React/Redux*
+*Youtube API made with React/Redux*<br>
 
-To use app: 
--Download a source code editor (Visual Studio Code is my prefered editor - https://code.visualstudio.com/download) 
--Git clone this repository to your computer
--Cd into the folder and run NPM install to install the app dependencies 
--After the dependencies are installed run NPM run start in the command prompt to start the application. 
+To use app: <br>
+-Download a source code editor (Visual Studio Code is my prefered editor - https://code.visualstudio.com/download) <br>
+-Git clone this repository to your computer <br>
+-Cd into the folder and run NPM install to install the app dependencies <br>
+-After the dependencies are installed run NPM run start in the command prompt to start the application. <br>
+<br>
 
-
-Uses: 
--This app can search, display, and play videos using Youtubes API
-
+Uses: <br>
+-This app can search, display, and play videos using Youtubes API <br>
+<br>
 I wrote this app as practice in learing to work with React/Redux
