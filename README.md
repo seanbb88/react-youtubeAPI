@@ -1,25 +1,13 @@
-# ReduxSimpleStarter
+*Youtube API made with React/Redux*
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+To use app: 
+-Download a source code editor (Visual Studio Code is my prefered editor - https://code.visualstudio.com/download) 
+-Git clone this repository to your computer
+-Cd into the folder and run NPM install to install the app dependencies 
+-After the dependencies are installed run NPM run start in the command prompt to start the application. 
 
-### Getting Started
 
-There are two methods for getting started with this repo.
+Uses: 
+-This app can search, display, and play videos using Youtubes API
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+I wrote this app as practice in learing to work with React/Redux
